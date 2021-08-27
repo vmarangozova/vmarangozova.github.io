@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vmarangozova.github.io/</loc>
+    <loc>https://vmarangozova.github.io/courses/example/python/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vmarangozova.github.io/courses/example/visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vmarangozova.github.io/courses/example/stats/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</loc>
     <lastmod>2021-08-23T15:03:31+00:00</lastmod>
   </url><url>
     <loc>https://vmarangozova.github.io/post/</loc>
     <lastmod>2021-08-23T15:03:31+00:00</lastmod>
   </url><url>
-    <loc>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</loc>
+    <loc>https://vmarangozova.github.io/</loc>
     <lastmod>2021-08-23T15:03:31+00:00</lastmod>
+  </url><url>
+    <loc>https://vmarangozova.github.io/courses/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vmarangozova.github.io/courses/example/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vmarangozova.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -17,34 +32,39 @@
     <loc>https://vmarangozova.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vmarangozova.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vmarangozova.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vmarangozova.github.io/admin/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/home/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/ad/</loc>
   </url><url>
     <loc>https://vmarangozova.github.io/categories/</loc>
   </url><url>
+    <loc>https://vmarangozova.github.io/project/cse/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/sr/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/ids/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/projet/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/publication/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/rproject/publications/</loc>
+  </url><url>
     <loc>https://vmarangozova.github.io/event/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/rproject/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/rproject/software/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/project/alternants/</loc>
+  </url><url>
+    <loc>https://vmarangozova.github.io/tags/</loc>
   </url>
 </urlset>

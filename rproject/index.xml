@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rprojects | Vania Marangozova</title>
+    <link>https://vmarangozova.github.io/rproject/</link>
+      <atom:link href="https://vmarangozova.github.io/rproject/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rprojects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://vmarangozova.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Rprojects</title>
+      <link>https://vmarangozova.github.io/rproject/</link>
+    </image>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://vmarangozova.github.io/rproject/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/rproject/publications/</guid>
+      <description>&lt;h3 id=&#34;journals--acl&#34;&gt;Journals  [ACL]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V.Marangozova-Martin, A. El-Rheddane, N. De Palma. Multi-Level Elasticity for Data Stream Processing. IEEE TPDS, vol. 30, no. 10, pp. 2326-2337, 1 Oct. 2019 (Rang A*).&lt;/li&gt;
+&lt;li&gt;Martin A, Marangozova-Martin V. Automatic benchmark profiling through advanced workflow-based trace analysis. Softw Pract Exper. 2018 ;1–23 (Rang A)&lt;/li&gt;
+&lt;li&gt;C. Pousa Ribeiro, M. Castro, V. Marangozova-Martin, J.-F. Mehaut, H. Cota de Freitas, and C. Augusto Paiva da Silva Martins. Evaluating CPU and Memory Affinity for Numerical Scientific Multithreaded Benchmarks on Multi-cores. IADIS International Journal on Computer Science and Information Systems(IJCSIS), 7(1) :79–93, 2012.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conferences--act&#34;&gt;Conferences  [ACT]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alexis Martin, Vania Marangozova-Martin. Automatic Benchmark Profiling Through Advanced Trace Analysis. Euro-Par 2016 : 63-74 (Rang A)&lt;/li&gt;
+&lt;li&gt;K.Georgiev and V. Marangozova-Martin. MPSoC Zoom Debugging : A Deterministic Record-Partial Replay Approach. 12th IEEE International Conference on Embedded and Ubiquitous Computing (EUC’2014). (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;D. Dosimont, G. Pagano, G.Huard, V. Marangozova-Martin and J-M. Vincent. Efficient Analysis Methodology for Huge Application Traces. International Conference on High Performance Computing and Simulation (HPCS). July, 2014. Bologna, Italy.
+Campagne Qualification 2020 V. Marangozova-Martin 8
+Activité professionnelle&lt;/li&gt;
+&lt;li&gt;L. Stanisic, B. Videau, J. Cronsioe, A. Degomme, V. Marangozova-Martin, A. Legrand, and J.-F. Mehaut. Performance Analysis of HPC Applications on Low-Power Embedded Platforms. In Proceedings of the Conference on Design, Automation, Test in Europe (DA- TE’13), Grenoble, Mar. 2013. Special Day on High-Performance Low-Power Computing.&lt;/li&gt;
+&lt;li&gt;G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013. (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;B. Videau, V. Marangozova-Martin, and J. Cronsioe. BOAST : Bringing Optimization through Automatic Source-to-Source Transformations. 7th International Symposium on Embedded Multicore/Manycore System-on-Chip (MCSoC), 2013 (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;B. Videau, V. Marangozova-Martin, L. Genovese, and T. Deutsch. Optimizing 3D Convo- lutions for Wavelet Transforms on CPUs with SSE Units and GPUs. 19th Euro-Par International Conference, 2013. (Rank A)&lt;/li&gt;
+&lt;li&gt;K. Pouget, M. Santana, V. Marangozova-Martin, and J.-F. Mehaut. Debugging Component-Based Embedded Applications. SCOPES (Software and Compilers for Embed- ded Systems) Workshop, 2012. (Rank A)&lt;/li&gt;
+&lt;li&gt;M. Bastos Castro, K. Georgiev, V. Marangozova-Martin, J.-F. Mehaut, L. Gustavo Fernandes, and M. Santana. Analysis and Tracing of Applications Based on Software Transactional Memory on Multicore Architectures. Euromicro International Conference on Parallel, Distributed and Network-Based Computing (PDP), 2011.&lt;/li&gt;
+&lt;li&gt;P. Oliveira, H. Cota de Freitas, C. Pousa Ribeiro, M. Bastos Castro, V. Marangozova- Martin, and J.-F. Mehaut. Performance Evaluation of WiNoCs for Parallel Workloads Based on Collective Communications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.&lt;/li&gt;
+&lt;li&gt;C. Pousa Ribeiro, M. Bastos Castro, J.-F. Mehaut, V. Marangozova-Martin, H. Cota de Freitas, and C. A. P. S. Martins. Investigating the Impact of CPU and Memory Affinity on Multi-core Platforms : A Case Study of Numerical Scientific Multithreaded Applications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.&lt;/li&gt;
+&lt;li&gt;C. Prada, V. Marangozova-Martin, J.-F. Mehaut, and M. Santana. A Generic Component- Based Approach to MPSoC Observation. 9th IEEE/IFIP International Conference on Embedded and UbiquitousComputing (EUC 2011), 2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;short-communications-com-and-posters-aff-in-conferences-and-workshops&#34;&gt;Short communications [COM] and posters [AFF] in conferences and workshops&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G. Pagano and V. Marangozova-Martin. The FrameSoC Software Architecture for Multiple- View Trace Data Analysis. ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2014). Rome, Italie. Juin 2014&lt;/li&gt;
+&lt;li&gt;G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013.&lt;/li&gt;
+&lt;li&gt;V. Marangozova-Martin and G. Pagano. SoC-TRACE : Handling the Challenge of Em- bedded Software Design and Optimization. ACM/IFIP/Usenix International Middleware Conference, Montreal, Canada, Dec. 2012. (Rank A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;habilitation-to-direct-research&#34;&gt;Habilitation to Direct Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vania Marangozova-Martin. Towards Generic System Observation Management. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rapports&#34;&gt;Rapports&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;K. Georgiev and V. Marangozova-Martin. Deterministic Partial Replay for MPSoC Debug- ging. Rapport de recherche RR-8515, INRIA Grenoble, France, 2014.&lt;/li&gt;
+&lt;li&gt;G.Pagano and V. Marangozova-Martin. FrameSoC Workbench : Facilitating Trace Analysis through a Consistent User Interface. Rapport technique RT-447, INRIA, Avril 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;communications&#34;&gt;Communications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Johanna Sepúlveda, Vania Marangozova-Martin, Jerónimo Castrillón. Architecture, Lan- guages, Compilation and Hardware support for Emerging ManYcore systems (ALCHEMY) : Preface. ICCS 2017 : 1071-1072&lt;/li&gt;
+&lt;li&gt;A. Martin, G. Pagano, V. Marangozova-Martin and J. Correnoz. Analyse de systèmes embarqués par structuration de traces d’exécution. Conférence en parallélisme, architecture et systèmes (ComPAS), Neuchâtel, Suisse. Avril 2014&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://vmarangozova.github.io/rproject/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/rproject/software/</guid>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SWAT : Système de Workflow pour l’Analyse de Traces.&lt;/p&gt;
+&lt;p&gt;Logiciel libre issu du travail de thèse d’Alexis Martin.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/alexmartin/swat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/alexmartin/swat&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Framesoc : une infrastructure de gestion de traces.&lt;/p&gt;
+&lt;p&gt;Logiciel libre basé sur le framework Eclispe produit dans le cadre du projet SoC-TRACE.&lt;/p&gt;
+&lt;p&gt;soctrace-inria.github.io/framesoc/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Traces d’exécution LTTng de 10 benchmarks Phoronix&lt;/p&gt;
+&lt;p&gt;Mise à disposition en accès libre d’environ 500 Giga-octets de traces, issues de différentes configurations d’exécution de 10 benchmarks standards sur deux plates-formes (une machine de bureau classique et une plate-forme embarquée).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.18709/PERSCIDO.2017.03.DS31&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18709/PERSCIDO.2017.03.DS31&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

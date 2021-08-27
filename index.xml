@@ -1,24 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Vania Marangozova</title>
     <link>https://vmarangozova.github.io/</link>
       <atom:link href="https://vmarangozova.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Vania Marangozova</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 15:03:31 +0000</lastBuildDate>
     <image>
       <url>https://vmarangozova.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Vania Marangozova</title>
       <link>https://vmarangozova.github.io/</link>
     </image>
     
     <item>
-      <title>Well, a new websoite after the COVID</title>
+      <title>Python basics</title>
+      <link>https://vmarangozova.github.io/courses/example/python/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/courses/example/python/</guid>
+      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://vmarangozova.github.io/courses/example/visualization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/courses/example/visualization/</guid>
+      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
+fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
+fig.show()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://vmarangozova.github.io/courses/example/stats/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/courses/example/stats/</guid>
+      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finally, a new website ! :)</title>
       <link>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</link>
       <pubDate>Mon, 23 Aug 2021 15:03:31 +0000</pubDate>
       <guid>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</guid>
-      <description>&lt;p&gt;Finally, how many time this will take me?&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -151,42 +245,143 @@ Three
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://vmarangozova.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://vmarangozova.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://vmarangozova.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://vmarangozova.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://vmarangozova.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vmarangozova.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vmarangozova.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithmique Distribuée</title>
+      <link>https://vmarangozova.github.io/project/ad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception des Systèmes d&#39;Exploitation</title>
+      <link>https://vmarangozova.github.io/project/cse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/cse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction aux Systèmes et Réseaux</title>
+      <link>https://vmarangozova.github.io/project/sr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Distributed Systems</title>
+      <link>https://vmarangozova.github.io/project/ids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/ids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet de programmation système</title>
+      <link>https://vmarangozova.github.io/project/projet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://vmarangozova.github.io/rproject/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/rproject/publications/</guid>
+      <description>&lt;h3 id=&#34;journals--acl&#34;&gt;Journals  [ACL]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V.Marangozova-Martin, A. El-Rheddane, N. De Palma. Multi-Level Elasticity for Data Stream Processing. IEEE TPDS, vol. 30, no. 10, pp. 2326-2337, 1 Oct. 2019 (Rang A*).&lt;/li&gt;
+&lt;li&gt;Martin A, Marangozova-Martin V. Automatic benchmark profiling through advanced workflow-based trace analysis. Softw Pract Exper. 2018 ;1–23 (Rang A)&lt;/li&gt;
+&lt;li&gt;C. Pousa Ribeiro, M. Castro, V. Marangozova-Martin, J.-F. Mehaut, H. Cota de Freitas, and C. Augusto Paiva da Silva Martins. Evaluating CPU and Memory Affinity for Numerical Scientific Multithreaded Benchmarks on Multi-cores. IADIS International Journal on Computer Science and Information Systems(IJCSIS), 7(1) :79–93, 2012.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conferences--act&#34;&gt;Conferences  [ACT]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alexis Martin, Vania Marangozova-Martin. Automatic Benchmark Profiling Through Advanced Trace Analysis. Euro-Par 2016 : 63-74 (Rang A)&lt;/li&gt;
+&lt;li&gt;K.Georgiev and V. Marangozova-Martin. MPSoC Zoom Debugging : A Deterministic Record-Partial Replay Approach. 12th IEEE International Conference on Embedded and Ubiquitous Computing (EUC’2014). (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;D. Dosimont, G. Pagano, G.Huard, V. Marangozova-Martin and J-M. Vincent. Efficient Analysis Methodology for Huge Application Traces. International Conference on High Performance Computing and Simulation (HPCS). July, 2014. Bologna, Italy.
+Campagne Qualification 2020 V. Marangozova-Martin 8
+Activité professionnelle&lt;/li&gt;
+&lt;li&gt;L. Stanisic, B. Videau, J. Cronsioe, A. Degomme, V. Marangozova-Martin, A. Legrand, and J.-F. Mehaut. Performance Analysis of HPC Applications on Low-Power Embedded Platforms. In Proceedings of the Conference on Design, Automation, Test in Europe (DA- TE’13), Grenoble, Mar. 2013. Special Day on High-Performance Low-Power Computing.&lt;/li&gt;
+&lt;li&gt;G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013. (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;B. Videau, V. Marangozova-Martin, and J. Cronsioe. BOAST : Bringing Optimization through Automatic Source-to-Source Transformations. 7th International Symposium on Embedded Multicore/Manycore System-on-Chip (MCSoC), 2013 (Acceptation 30%)&lt;/li&gt;
+&lt;li&gt;B. Videau, V. Marangozova-Martin, L. Genovese, and T. Deutsch. Optimizing 3D Convo- lutions for Wavelet Transforms on CPUs with SSE Units and GPUs. 19th Euro-Par International Conference, 2013. (Rank A)&lt;/li&gt;
+&lt;li&gt;K. Pouget, M. Santana, V. Marangozova-Martin, and J.-F. Mehaut. Debugging Component-Based Embedded Applications. SCOPES (Software and Compilers for Embed- ded Systems) Workshop, 2012. (Rank A)&lt;/li&gt;
+&lt;li&gt;M. Bastos Castro, K. Georgiev, V. Marangozova-Martin, J.-F. Mehaut, L. Gustavo Fernandes, and M. Santana. Analysis and Tracing of Applications Based on Software Transactional Memory on Multicore Architectures. Euromicro International Conference on Parallel, Distributed and Network-Based Computing (PDP), 2011.&lt;/li&gt;
+&lt;li&gt;P. Oliveira, H. Cota de Freitas, C. Pousa Ribeiro, M. Bastos Castro, V. Marangozova- Martin, and J.-F. Mehaut. Performance Evaluation of WiNoCs for Parallel Workloads Based on Collective Communications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.&lt;/li&gt;
+&lt;li&gt;C. Pousa Ribeiro, M. Bastos Castro, J.-F. Mehaut, V. Marangozova-Martin, H. Cota de Freitas, and C. A. P. S. Martins. Investigating the Impact of CPU and Memory Affinity on Multi-core Platforms : A Case Study of Numerical Scientific Multithreaded Applications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.&lt;/li&gt;
+&lt;li&gt;C. Prada, V. Marangozova-Martin, J.-F. Mehaut, and M. Santana. A Generic Component- Based Approach to MPSoC Observation. 9th IEEE/IFIP International Conference on Embedded and UbiquitousComputing (EUC 2011), 2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;short-communications-com-and-posters-aff-in-conferences-and-workshops&#34;&gt;Short communications [COM] and posters [AFF] in conferences and workshops&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G. Pagano and V. Marangozova-Martin. The FrameSoC Software Architecture for Multiple- View Trace Data Analysis. ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2014). Rome, Italie. Juin 2014&lt;/li&gt;
+&lt;li&gt;G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013.&lt;/li&gt;
+&lt;li&gt;V. Marangozova-Martin and G. Pagano. SoC-TRACE : Handling the Challenge of Em- bedded Software Design and Optimization. ACM/IFIP/Usenix International Middleware Conference, Montreal, Canada, Dec. 2012. (Rank A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;habilitation-to-direct-research&#34;&gt;Habilitation to Direct Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vania Marangozova-Martin. Towards Generic System Observation Management. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rapports&#34;&gt;Rapports&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;K. Georgiev and V. Marangozova-Martin. Deterministic Partial Replay for MPSoC Debug- ging. Rapport de recherche RR-8515, INRIA Grenoble, France, 2014.&lt;/li&gt;
+&lt;li&gt;G.Pagano and V. Marangozova-Martin. FrameSoC Workbench : Facilitating Trace Analysis through a Consistent User Interface. Rapport technique RT-447, INRIA, Avril 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;communications&#34;&gt;Communications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Johanna Sepúlveda, Vania Marangozova-Martin, Jerónimo Castrillón. Architecture, Lan- guages, Compilation and Hardware support for Emerging ManYcore systems (ALCHEMY) : Preface. ICCS 2017 : 1071-1072&lt;/li&gt;
+&lt;li&gt;A. Martin, G. Pagano, V. Marangozova-Martin and J. Correnoz. Analyse de systèmes embarqués par structuration de traces d’exécution. Conférence en parallélisme, architecture et systèmes (ComPAS), Neuchâtel, Suisse. Avril 2014&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://vmarangozova.github.io/rproject/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/rproject/software/</guid>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SWAT : Système de Workflow pour l’Analyse de Traces.&lt;/p&gt;
+&lt;p&gt;Logiciel libre issu du travail de thèse d’Alexis Martin.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/alexmartin/swat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/alexmartin/swat&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Framesoc : une infrastructure de gestion de traces.&lt;/p&gt;
+&lt;p&gt;Logiciel libre basé sur le framework Eclispe produit dans le cadre du projet SoC-TRACE.&lt;/p&gt;
+&lt;p&gt;soctrace-inria.github.io/framesoc/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Traces d’exécution LTTng de 10 benchmarks Phoronix&lt;/p&gt;
+&lt;p&gt;Mise à disposition en accès libre d’environ 500 Giga-octets de traces, issues de différentes configurations d’exécution de 10 benchmarks standards sur deux plates-formes (une machine de bureau classique et une plate-forme embarquée).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.18709/PERSCIDO.2017.03.DS31&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18709/PERSCIDO.2017.03.DS31&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stages d&#39;alternance</title>
+      <link>https://vmarangozova.github.io/project/alternants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vmarangozova.github.io/project/alternants/</guid>
       <description></description>
     </item>
     

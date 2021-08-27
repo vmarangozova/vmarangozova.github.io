@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | Vania Marangozova</title>
     <link>https://vmarangozova.github.io/post/</link>
       <atom:link href="https://vmarangozova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>Well, a new websoite after the COVID</title>
+      <title>Finally, a new website ! :)</title>
       <link>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</link>
       <pubDate>Mon, 23 Aug 2021 15:03:31 +0000</pubDate>
       <guid>https://vmarangozova.github.io/post/well-a-new-websoite-after-the-covid/</guid>
-      <description>&lt;p&gt;Finally, how many time this will take me?&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
