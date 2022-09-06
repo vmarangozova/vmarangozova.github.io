@@ -31,4 +31,6 @@
   width: 150px;
 }
 
-
+.page h1.format-icon:before {
+content: none;
+}
