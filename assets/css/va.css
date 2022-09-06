@@ -1,0 +1,34 @@
+.news {
+  font-weight: normal;
+}
+
+.student-ad {
+  border: 2px dotted #6D92A0;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.date {
+  color: #bb3f22;
+  font-size: small;
+  font-family: monospace;
+  font-weight: bold;
+  padding-right: 1em;
+  vertical-align: top;
+  float: left;
+  width: 150px;
+}
+
+.date-edu {
+  color: #545E6C;
+  font-size: small;
+  font-family: monospace;
+  font-weight: bold;
+  padding-right: 1em;
+  vertical-align: top;
+  float: left;
+  width: 150px;
+}
+
+
