@@ -9,6 +9,20 @@
   text-align: center;
 }
 
+.job-ad-blue {
+  border: thick double #32a1ce;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.job-ad-green {
+  border: thick double  #1e8449 ;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
 .date {
   color: #bb3f22;
   font-size: small;
